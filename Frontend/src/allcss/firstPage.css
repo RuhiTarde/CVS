@@ -1,0 +1,56 @@
+*{
+    padding:0;
+    margin:0;
+   box-sizing: border-box;
+}
+.menuBar{
+    background-color:darkgreen;
+    text-align: center;
+}
+.menuBar ul {
+    display: inline-flex;
+    list-style: none;
+    color: #fff;
+
+}
+.menuBar ul li {
+    width: 150px;
+    margin: 10px;
+}
+.menuBar ul li a {
+   text-decoration: none;
+   color: white;
+}
+.active, .menuBar ul li:hover{
+    background: #2bab0d;
+    border-radius: 10px;
+}
+.sub-menu {
+    display: none;
+}
+.menuBar ul li:hover .sub-menu{
+    display: block;
+    position: absolute;
+    background: rgb(0,100,0);
+    margin-top: 15px;
+    margin-left: -15px;
+}
+.menuBar ul li:hover .sub-menu ul{
+    display: block;
+    margin: 10px;
+}
+.menuBar ul li:hover .sub-menu ul li{
+    width: 150px;
+    padding:10px;
+    border-bottom: 1px dotted white;
+    background: transparent;
+    border-radius: 0;
+    text-align: left;
+}
+.menuBar ul li:hover .sub-menu ul li a:hover{
+    color:#b2ff00;
+}
+.bg-image2{
+    background-image: url('../images/dataset-cover.jpg');
+    height:40vh
+}

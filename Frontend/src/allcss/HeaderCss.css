@@ -1,0 +1,36 @@
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(157, 246, 157);
+}
+table{
+    table-layout: fixed;
+    border-radius: 5px;
+    border-color: darkgreen;
+}
+
+
+
+.navbarCss{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    height: 50px;
+}
+ul li{
+    display: inline;
+    
+    width: 20%; 
+    float: left;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav ul li a:hover{
+    color:white;
+  text-decoration: none;
+}
+
+.bar2{
+    background-color: white;
+}

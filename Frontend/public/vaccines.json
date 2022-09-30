@@ -1,0 +1,225 @@
+[
+	{
+		"id":1,
+	 "name":"BCG",
+	"dueAge":"At birth",
+	"maxAge":"till one year of age",
+	"dose":"(0.05 ml until 1 month) 0.1 ml beyond age 1 month",
+	"site":" Upper Left Arm",
+	"route":"Intra-dermal",
+	"Schedule": "Single dose.",
+	"Instructions": "  No reaction like fever, malaise.",
+	"SideEffects": "Non healing ulcer and regional suppurative lymphadenitis."
+},
+	{
+		"id":2,
+	   "name":"Hepatitis B",
+	   "dueAge":"At birth",
+	   "maxAge":"Within 24 hours",
+	   "dose":"0.5ml",
+	   "site":"Intra-muscular",
+	   "route":"mid-thigh -Left",
+	    "Schedule": "Not indicated",
+	    "Instructions": "None",
+	     "SideEffects": "local pain"
+
+	 
+},
+	   
+	   {
+		"id":3,
+	   "name":"OPV - 0",
+	   "dueAge":"At Birth",
+	   "maxAge":"Within first 15 days",
+	   "dose":"2 drops",
+	   "site":"oral",
+	   "route":"oral",
+	   "Schedule": "At birth",
+	   "Instructions": "None",
+	   "SideEffects": "None"
+	   },
+	   {
+		"id":4,
+	   "name":"OPV 1,2,3",
+	   "dueAge":"At 6 weeks, 10 weeks, 14 weeks",
+	   "maxAge":"till 5 years of age",
+	   "dose":"2 drops",
+	   "site":"oral",
+	   "route":"oral",
+	   "Schedule": "Three doses at 4-8 weeks interval",
+	   "Instructions": "None",
+	    "SideEffects": "None"
+	   },
+	   {
+		"id":5,
+	   "name":"Pentavalent",
+	   "dueAge":"At 6 weeks, 10 weeks, 14 weeks",
+	   "maxAge":"1 year of age",
+	   "dose":"0.5 ml",
+	   "site":"Intra- muscular",
+	   "route":"mid thigh -Left",
+	   "Schedule": "Three doses at 4-8 weeks interval",
+	   "Instructions": "To give paracitamol in case of fever",
+	   "SideEffects": "Fever,local pain"
+	   },
+	   {
+		"id":6,
+	   "name":"Fractional IPV",
+	   "dueAge":"At 6 and 14 weeks",
+	   "maxAge":"1 year of age",
+	   "dose":"0.1 ml",
+	   "site":"Intra-dermal",
+	   "route":"Upper Arm-Right",
+	   "Schedule": "Three doses at 4-8 weeks interval",
+	   "Instructions": "To give paracitamol in case of fever",
+	  "SideEffects": "Fever,local pain"
+	   },
+	   {
+		"id":7,
+	   "name":"Rotavirus(Where applicable)",
+	   "dueAge":"At 6 weeks, 10 weeks, 14 weeks",
+	   "maxAge":"1 year of age",
+	   "dose":"5 drops",
+	   "site":"oral",
+	   "route":"oral",
+	   "Schedule": "Three doses at 4-8 weeks interval",
+	   "Instructions": "To give paracitamol in case of fever",
+		"SideEffects": "Fever,local pain"
+	   },
+	   {
+		"id":8,
+	   "name":"Pneumococcal Conjugate vaccine (PCV)(Where applicable)",
+	   "dueAge":"At 6 and 14 weeks At 9 completed month-Booster",
+	   "maxAge":"1 year of age",
+	   "dose":"0.5 ml",
+	   "site":"Intra- muscular",
+	   "route":"mid thigh -Right",
+	   "Schedule": "Three doses at 4-8 weeks interval",
+
+	   "Instructions": "To give paracitamol in case of fever",
+		"SideEffects": "Fever,local pain"
+	   },
+	   {
+		"id":9,
+	   "name":"Measles / Rubella 1st dose",
+	   "dueAge":"At 9 months completed",
+	   "maxAge":"12 months",
+	   "dose":"0.5 ml",
+	   "site":"Sub- cutaneous",
+	   "route":"Upper Arm-Right",
+	 
+	   "Schedule": "1 dose if given beyond the age 1, 2 dose if given before 9 months",
+	 
+	   "Instructions": "Mild fever & rash may appear after 5-7 days.",
+	   "SideEffects": "Fever,rash after 5-7"
+	   },
+	   {
+		"id":10,
+	   "name":"Vitamin A (1 st dose)",
+	   "dueAge":"At 9 months completed",
+	   "maxAge":"12 months",
+	   "dose":"1 ml",
+	   "site":"Oral",
+	   "route":"Oral",
+	   "Schedule": "not mention",
+  
+	   "Instructions": "none",
+		"SideEffects":"none"
+	   },
+	   {
+		"id":11,
+	   "name":"DPT booster-1",
+	   "dueAge":"At 16 months",
+	   "maxAge":"24 months",
+	   "dose":"0.5 ml",
+	   "site":"Intra-muscular",
+	   "route":"mid thigh ",
+	   "Schedule": "Three doses at 4-8 weeks interval",
+	   "Instructions": "To give paracitamol in case of fever",
+		"SideEffects": "Fever,local pain"
+	   },
+	   {
+		"id":12,
+	   "name":"Measles/ Rubella( 2nd dose)",
+	   "dueAge":"At 16 months",
+	   "maxAge":"24 months",
+	   "dose":"0.5 ml",
+	   "site":"Sub-cutaneous",
+	   "route":"Right upper Arm",
+	
+	   "Schedule": "1 dose if given beyond the age 1, 2 dose if given before 9 months",
+	
+	   "Instructions": "Mild fever & rash may appear after 5-7 days.",
+		"SideEffects": "Fever,rash after 5-7"
+	  
+	   },
+	   {
+		"id":13,
+	   "name":"OPV Booster",
+	   "dueAge":"At 16 months",
+	   "maxAge":"24 months",
+	   "dose":"2 drops",
+	   "site":"Oral",
+	   "route":"Oral",
+	
+	   "Schedule": " not mention",
+	
+	   "Instructions": "none",
+		"SideEffects": "None"
+	   },
+	   {
+		"id":14,
+	   "name":"Vitamin A (2 nd dose)",
+	   "dueAge":"At 16 months",
+	   "maxAge":"18 months",
+	   "dose":"2 ml",
+	   "site":"Oral",
+	   "route":"Oral",
+	"Schedule": "After every 6 months",
+	   "Instructions": "none",
+		"SideEffects": "none"
+	   },
+	   {
+		"id":15,
+	   "name":"Typhoid (where applicable)",
+	   "dueAge":"16 months",
+	   "maxAge":"24 months",
+	   "dose":"  0.25ml in 10 years. 0.5 ml in 10 years.",
+	   "site":"Anterolateral aspect of thigh. ",
+	   "route":" Subcutaneous. ",
+	
+	   "Schedule": "2 doses 4 weeks apart",
+	
+	   "Instructions": "To give paracitamol in case of fever",
+		"SideEffects": "Fever,local pain,headache"
+	   },
+	   {
+		"id":16,
+	   "name":"DPT Booster-2",
+	   "dueAge":"At 5 years",
+	   "maxAge":"6 years",
+	   "dose":"0.5 ml",
+	   "site":"Intra- muscular",
+	   "route":"Upper Arm",
+	 	   "Schedule": "Three doses at 4-8 weeks interval",
+	
+	   "Instructions": "To give paracitamol in case of fever",
+		"SideEffects": "Fever,local pain"
+	   },
+	   {
+		"id":17,
+	   "name":"TT",
+	   "dueAge":"At 10 years",
+	   "maxAge":"  ",
+	   "dose":"0.5 ml",
+	   "site":"Intra- muscular",
+	   "route":"Upper Arm",
+
+	   "Schedule ": "Three doses at 4-8 weeks interval",
+	
+	   "Instructions": "To give paracitamol in case of fever",
+		"SideEffects": "Fever,local pain"
+	   }
+	   
+
+]
